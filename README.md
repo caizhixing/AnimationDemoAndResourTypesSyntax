@@ -1,0 +1,2 @@
+# AnimationDemoAndResourTypesSyntax
+demo about animation
