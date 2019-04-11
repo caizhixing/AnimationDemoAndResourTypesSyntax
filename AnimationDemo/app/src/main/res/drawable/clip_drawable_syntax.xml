@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<clip-->
+            <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+            <!--android:drawable="@drawable/drawable_resource"-->
+            <!--android:clipOrientation=["horizontal" | "vertical"]-->
+    <!--android:gravity=["top" | "bottom" | "left" | "right" | "center_vertical" |-->
+    <!--"fill_vertical" | "center_horizontal" | "fill_horizontal" |-->
+    <!--"center" | "fill" | "clip_vertical" | "clip_horizontal"] />-->
+</clip>

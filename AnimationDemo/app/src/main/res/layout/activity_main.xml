@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+    <Button
+            android:id="@+id/animation_ac"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:text="animation"/>
+
+    <Button
+            android:id="@+id/animator_ac"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/animation_ac"
+            android:layout_centerHorizontal="true"
+            android:text="animator"/>
+
+    <Button
+            android:id="@+id/anim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/animator_ac"
+            android:layout_centerHorizontal="true"
+            android:text="完整动画演示"/>
+
+    <Button
+            android:id="@+id/anim4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/anim"
+            android:layout_centerHorizontal="true"
+            android:text="完整动画演示ListView"/>
+
+    <Button
+            android:id="@+id/anim5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/anim4"
+            android:layout_centerHorizontal="true"
+            android:text="完整动画演示LayoutTransition"/>
+
+    <Button
+            android:id="@+id/anim6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/anim5"
+            android:layout_centerHorizontal="true"
+            android:text="完整动画演示LayoutChange"/>
+
+</RelativeLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+     android:duration="3000"
+     android:fillAfter="true"
+     android:repeatMode="restart"
+     android:fillBefore="false"
+     android:startOffset="1"
+android:shareInterpolator="true">
+    <alpha
+            android:fromAlpha="0"
+            android:toAlpha="1"/>
+
+    <rotate
+            android:fromDegrees="0"
+            android:toDegrees="360"
+            android:pivotX="50%"
+            android:pivotY="50%"/>
+    <!--pivotX="50%p"相对于当前view左上角偏移parent view的x的50%-->
+    <scale
+            android:fromXScale="1"
+            android:toXScale="1.5"
+            android:fromYScale="1"
+            android:toYScale="1.5"
+            android:pivotX="50"
+            android:pivotY="50"/>
+    <translate
+            android:fromXDelta="-10%p"
+            android:toXDelta="0"
+            android:fromYDelta="-10%p"
+            android:toYDelta="0"
+    />
+</set>

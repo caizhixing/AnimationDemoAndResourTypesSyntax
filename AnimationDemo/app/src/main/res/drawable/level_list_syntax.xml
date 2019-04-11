@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<level-list-->
+            <!--xmlns:android="http://schemas.android.com/apk/res/android" >-->
+        <!--<item-->
+                <!--android:drawable="@drawable/drawable_resource"-->
+                <!--android:maxLevel="integer"-->
+                <!--android:minLevel="integer" />-->
+    <!--</level-list>-->
+</level-list>

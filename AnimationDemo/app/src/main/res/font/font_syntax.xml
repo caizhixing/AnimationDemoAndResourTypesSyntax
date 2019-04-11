@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<font-family>-->
+        <!--<font-->
+                <!--android:font="@[package:]font/font_to_include"-->
+                <!--android:fontStyle=["normal" | "italic"]-->
+        <!--android:fontWeight="weight_value" />-->
+    <!--</font-family>-->
+</font-family>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<selector xmlns:android="http://schemas.android.com/apk/res/android" >-->
+        <!--<item-->
+                <!--android:color="hex_color"-->
+                <!--android:state_pressed=["true" | "false"]-->
+        <!--android:state_focused=["true" | "false"]-->
+        <!--android:state_selected=["true" | "false"]-->
+        <!--android:state_checkable=["true" | "false"]-->
+        <!--android:state_checked=["true" | "false"]-->
+        <!--android:state_enabled=["true" | "false"]-->
+        <!--android:state_window_focused=["true" | "false"] />-->
+    <!--</selector>-->
+
+
+    <!--Hexadeximal color. Required. The color is specified with an RGB value and optional alpha channel.-->
+    <!--The value always begins with a pound (#) character and then followed by
+    the Alpha-Red-Green-Blue information in one of the following formats:-->
+
+    <!--#RGB-->
+    <!--#ARGB-->
+    <!--#RRGGBB-->
+    <!--#AARRGGBB-->
+</selector>

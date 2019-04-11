@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Animator.AnimatorActivity">
+
+    <Button
+            android:id="@+id/object_animator"
+            android:text="ObjectAnimator通过代码"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_centerHorizontal="true"/>
+
+    <Button
+            android:id="@+id/object_animator2"
+            android:text="ObjectAnimator通过xml"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/object_animator"/>
+
+    <Button
+            android:id="@+id/object_animator3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/object_animator2"
+            android:text="ValueAnimator通过代码"
+            android:layout_centerHorizontal="true"/>
+
+    <Button
+            android:id="@+id/object_animator4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/object_animator3"
+            android:layout_marginTop="20dp"
+            android:text="key_frame关键帧"
+            android:layout_centerHorizontal="true"/>
+
+
+</RelativeLayout>
